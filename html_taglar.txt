@@ -1,0 +1,112 @@
+                                                              HTML Tags
+<!Doctype> - Senedin tipini mueyyen edir.
+<html> -HTML senedini mueyyen edir
+<title> -  basliq yazmaq ucundur
+<body>-  body hissesini yazma zamani istifade olunur
+<h1>-<h6>- Basliqlarin sriftini mueyyen edir
+<p>- paraqraf yazmaq ucundur
+<br>- bosluq qoyur
+<hr> - xett cekir
+<!-- ...   --> - serh yazarken istifade olunur.
+<abbr>- Soz birlesmelerinin qisaltmasi zamani istifade olunur
+<address>- elaqe melumatlarinin yazilmasinda istifade olunur
+<b>- sozlerin qalin herfle yazilmasini mueyyen edir
+<bdi>- diger metnden ferqli formatda olan metnin bir bolumunu izolyasiya edir
+<bdo>- cari metnin istiqametini kecersiz edir
+<blockquote>- basqa menbeden olan sitati mueyyen edir
+<cite>- Hansisa isin ve ya eserin adini/basligini mueyyen edir
+<code>- komputer kodunun bir hissesini mueyyen edir
+<del>- metnde silinmis hisseni mueyyen edir
+<dfn>- termin izahini verir
+<em>- teksti vurgulamaq (qabariq  sekilde gostermek) ucun istifade olunur
+<i>- metnin bir hissesini alternativ bir sesle mueyyen edir
+<ins>- sonradan elave olunan metni mueyyen edir
+<kbd>-klaviaturadan daxil olmani mueyyen edir
+<mark>-metni "highlight" edir
+<meter>- Bilinen bir araliqda skalyar olcunu mueyyenlesdirir
+<pre>- Evvelceden formatlandirilmis metni mueyyen edir
+<progress>-herhansi tapsirigin irelileyisini mueyyenlesdirir
+<q>- qisa bir sitati yazarken istifade olunur
+<rp>- Ruby aciqlamalarini desteklemeyen brauzerlerde nelerin gosterile bileceyini mueyyen edir
+<rt>- xarakterlerin teleffuz/izahini mueyyenlesdirir (meselen Serqi Asiya metbeesi ucun)
+<ruby>- ruby aciqlamalarini mueyyen edir
+<s>-Artiq dogru olmayan metni mueyyen edir
+<samp>- komputer proqramindaki hansisa sade cixisi mueyyen edir
+<small>- balaca metni mueyyenlesdirir
+<strong>- vacib bir metni mueyyen edir
+<sub>- alt yazili olan metni mueyyen edir
+<sup>-uzerine yazilmis metni mueyyenlesdirir
+<time>- ayin tarixi/zamani mueyyen edir
+<u>- metnin altindan xett cekmek ucun istifade olunur
+<var>- deyiseni mueyyen edir.
+<wbr>- mumkun setir sonunu mueyyen edir
+<form>- istifadeci girisi ucun formu mueyyen edir.
+<input>-giris nezaretini mueyyenlesdirir
+<textarea>-boyuk metin daxil etmek ucundur
+<button>- kliklene bilen duymeni mueyyen edir
+<select>- acilan siyahini mueyyenlesdirir
+<optgroup>- acilan siyahidan elaqeli olan secimleri mueyyenlesdirir
+<option>- acilan siyahida edilecek secimleri mueyyen edir
+<label>- "giris" ucun "label"i (nisani) mueyyen edir
+<fieldset>- formdaki elaqeli elementleri qruplasdirir
+<legend>- "fieldset" elementi ucun basliq mueyyenlesdirir
+<datalist>- "Input" nezareti ucun evvelceden teyin olunmus variantlar listini mueyyen edir
+<keygen>- bir acar/cut generator sahesini mueyyenlesdirir (formlar ucun)
+<output>- hesablamanin neticesini mueyyen edir
+<img>- sekili tesvir edir
+<map>- istifadeci yonumlu sekil-xeriteni mueyyenlesdirir
+<area>- sekil daxilinde saheni mueyyen edir
+<canvas>- script vasitesile qrafiklerin cekilmesini mueyyen edir
+<figcaption>- <figure> elementi ucun  basliq mueyyen edir
+<figure>- kontenti ozunemexsus kontenti mueyyen edir
+<picture>- Birden cox sekil menbeyi ucun konteyneri mueyyen edir
+<audio>- ses kontentini mueyyen edir
+<source>-media elementleri ucun birden cox media menbelerini mueyyen edir
+<track>-media elementleri ucun metn parcalarini mueyyenlesdirir
+<video>- video ve ya movie-ni teyin edir
+<a>- linki mueyyen edir
+<link>- senedle xarici menbe arasindaki elaqeni mueyyen edir
+<nav>- naviqasiya elaqelerini mueyyen edir
+<ul>- nomrelenmemis siyahilari teyin edir
+<ol>-nomrelenmis siyahilari teyin edir
+<list>- list elementini mueyyenlesdirir
+<dl>- tesviri siyahilari mueyyen edir
+<dt>- tesviri siyahilarda termin/ad mueyyen edir
+<dd>- tesviri siyahilardaki bir termin/adin tesvirini edir
+<menu>- emrlerin siyahisini mueyyen edir
+<menuitem>-Istifadecinin pop-up menyudan baslada bileceyi emr/menyu elementini mueyyen edir
+<table>- cedveli mueyyen edir
+<caption>- cedvelin basligini mueyyen edir
+<th>- cedvelin basliq xanasini mueyyen edir
+<tr>- cedvelin setrini mueyyen edir
+<td>-cedvelin sutununu mueyyen edir
+<thead>- cedvelin basliq kontentini qruplasdirir
+<tbody>- cedvelin body kontentini qruplasdirir
+<tfoot>- cedvelin foot kontentini qruplasdirir
+<col>- bir <colgroup> elementi icinde her sutununun sutun ozelliklerini mueyyenlesdirir
+<colgroup>-Format ucun bir cedvelde bir ve ya daha cox sutun qrupunu mueyyen edir
+<style>- bir sened ucun style melumatlarini mueyyen edir
+<div>-Seneddeki bir bolmeni mueyyen edir
+<span>-Seneddeki bir bolmeni mueyyen edir
+<header>-bir sened veya bolme ucun basliq teyin edir
+<footer>-bir sened veya bolme ucun Foot teyin edir
+<main>-Senedin esas kontentini mueyyenlesdirir
+<section>- Seneddeki bir bolmeni mueyyen edir
+<article>-meqaleni teyin edir
+<aside>-kontenti sehifenin kontentinden ayirir
+<details>-istifadecinin gore ve ya gizlede bileceyi elave detallari mueyyen edir
+<dialog>- dialoq qutusu ve ya penceresini mueyyen edir
+<summary>- <details> elementi ucun gorune bilen basligi teyin edir
+<data>-Verilen kontenti masin terefinden oxuna bilen tercume ile birlesdirir
+<head>-sened haqqinda melumati mueyyen edir
+<meta>-HTML senedi haqqinda meta melumati teyin edir
+<base>-Seneddeki butun elaqeli URL-lerin esas URL-lerini/hedeflerini gosterir
+<script>- istifadeci-yonumlu skripti mueyyen edir
+<noscript>-istifadeci-yonumlu skripti desteklemeyen istifadeciler ucun alternativ bir kontent mueyyen edir
+<embed>-Xarici bir application (HTML olmayan) ucun konteyner teyin edir
+<object>- obyekti mueyyen edir
+<param>- obyekt ucun parametr teyin edir
+
+
+
+
