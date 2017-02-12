@@ -1,0 +1,13 @@
+HTML 5-in diger versiyalardan major ferqleri :
+ 1) HTML, CSS, DOM ve JavaScript 'in yeni xususiyyetlerini destekleyebildi.
+2) Xarici elaveleri azaltmaga yaradi (flash kimi)
+3) Xeta emal funksiyasini yaxsilasdirdi ve web daha etibarli hala geldi.
+4) Daha cox script yerine daha cox kod setiri ile formatlasdirma duzgunlestirildi.
+5) HTML5 serverden azad oldu
+
+HTML5-in yeni ozellikleri :
+1)Resm-qrafik elementi
+2) Video ve diger medialar ucun playback (oynadici)
+3) Yerli storage ucun daha yaxsi destek
+3) Meqale, alt melumat, ust melumat, etiket kimi melumat veren daxili elementler
+4) Teqvim, tarix, saat, email, url ve axtaris formalari kimi asanliq temin eden avtomatik formalar
